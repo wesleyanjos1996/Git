@@ -1,2 +1,5 @@
 #Ignore pasta pdf
 pdf
+
+#ignore arquivo git.txt
+git.txt
