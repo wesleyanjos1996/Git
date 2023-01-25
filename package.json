@@ -1,0 +1,24 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleyanjos1996/Git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleyanjos1996/Git/issues"
+  },
+  "homepage": "https://github.com/wesleyanjos1996/Git#readme",
+  "dependencies": {
+    "bootstrap": "5.2.3",
+    "jquery": "3.6.3"
+  }
+}

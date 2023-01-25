@@ -3,3 +3,6 @@ pdf
 
 #ignore arquivo git.txt
 git.txt
+
+#ignore folder node_modules
+node_modules
